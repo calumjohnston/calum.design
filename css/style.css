@@ -1,12 +1,15 @@
 * {
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 html,
 body {
     margin: 0;
-    font-family: 'Montserrat', 'Segoe UI', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Open Sans', 'Segoe UI', 'Helvetica', 'Arial', sans-serif;
     font-size: 0.98em;
+
 }
 
 /* Resets */
@@ -167,7 +170,7 @@ a.text-link:hover {
 .work__block-title {
     font-size: 1.8em;
     color: #3474b7;
-    font-weight: 500;
+    font-weight: 400;
     margin: 0 0 1em 0;
     padding-bottom: 0.4em;
     border-bottom: 1px solid #efefef;
