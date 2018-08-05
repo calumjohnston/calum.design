@@ -94,7 +94,6 @@ a.text-link:hover {
   position: relative;
   transform: translateZ(5em);
   z-index: 100;
-  cursor: pointer;
 }
 
 .hero-overlay:before {
