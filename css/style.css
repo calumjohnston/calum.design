@@ -84,7 +84,10 @@ a.text-link:hover {
   position: absolute;
   top: 0;
   bottom: 0;
+  left:0;
   width: 100%;
+  background-image: -ms-linear-gradient(right, #284b5f, #0860bb); 
+  background-image: -o-linear-gradient(right, #284b5ff2, #0860bbde);
   background: linear-gradient(to right, #284b5ff2, #0860bbde);
   overflow: hidden;
 }
