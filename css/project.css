@@ -1,0 +1,21 @@
+.hero {
+    height: 40vh;
+    margin-bottom: 2em;
+}
+
+.project h2,
+.project h3 {
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #a2a2a2;
+    margin-bottom: 0.5em;
+}
+
+.project h2 {
+    font-size: 3em;
+}
+
+.project h3 {
+    font-size: 2em;
+}
