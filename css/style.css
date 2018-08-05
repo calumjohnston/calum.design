@@ -224,7 +224,6 @@ a.text-link:hover {
     max-width: 12em;
     max-height: 7em;
     margin-right: 1em;
-    margin-bottom: 1em;
 }
 
 .work__block-screenshot {
@@ -296,6 +295,7 @@ a.text-link:hover {
     .work__block-screenshot-container {
         float: none;
         margin: 1em auto;
+        margin-bottom:1em;
     }
 }
 
